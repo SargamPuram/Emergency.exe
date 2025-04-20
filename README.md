@@ -19,3 +19,13 @@ Visual A* pathfinding demo where an ambulance finds the smartest route to the ho
 - **Step 3**: Click **Calculate Path** and watch as the ambulance finds its route to the hospital 🧠💨.
 - **Step 4**: Reset and try a new setup whenever you feel like it. You can keep it chill or test your pathfinding skills!
 
+## 🧠 How It Works
+
+1. **Click on the grid** to set the **start**, **goal**, and **obstacles**.
+2. **Hit the 'Calculate Path' button** to trigger the A* algorithm.
+3. The ambulance will **calculate and move** in the shortest path, avoiding obstacles!
+4. Want to try again? **Click 'Clear'** to reset and set up a new challenge. 🛠️
+
+---
+
+
